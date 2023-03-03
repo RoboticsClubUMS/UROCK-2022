@@ -1,3 +1,5 @@
+Refer to https://github.com/coryjfowler/MCP_CAN_lib for original repository
+
 MCP_CAN Library for Arduino
 ==============
 MCP_CAN library v1.5
